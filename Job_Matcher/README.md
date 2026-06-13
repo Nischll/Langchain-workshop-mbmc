@@ -47,7 +47,7 @@ Get a free key at [console.groq.com](https://console.groq.com).
 
 ### 3. Add your resume
 
-Place your resume PDF in this folder and name it `resume.pdf`.
+Place your resume PDF in the main (outside) folder and name it `resume.pdf`.
 
 ### 4. Add the job description
 
