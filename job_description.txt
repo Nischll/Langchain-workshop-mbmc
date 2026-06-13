@@ -1,0 +1,5 @@
+Job Title: Frontend Developer
+We are looking for a Frontend Developer skilled in React, TypeScript, and
+responsive design. Experience with REST APIs, Git, and testing frameworks
+is required. Familiarity with cloud deployment (AWS/Vercel) and CI/CD
+pipelines is a plus.
